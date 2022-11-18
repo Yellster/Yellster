@@ -4,10 +4,10 @@
 
 - [x] Java / Spring
 - [x] Python / Flask
+- [x] PostgreSQL
 - [ ] Golang
 - [ ] JavaScript / Vue.js
 - [ ] Rust
-- [x] PostgreSQL
 
 ## Summarize
 
