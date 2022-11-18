@@ -1,19 +1,17 @@
-### Hi there 👋
+# Hello GitHub
 
-<!--
-**codeSu97/codeSu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Good at
 
-Here are some ideas to get you started:
+- [x] Java / Spring
+- [x] Python / Flask
+- [ ] Golang
+- [ ] JavaScript / Vue.js
+- [ ] Rust
+- [x] PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Summarize
 
+![Summarize](https://github-readme-stats.vercel.app/api?username=codeSu97&show_icons=true&count_private=true&theme=jolly&icon_color=5CBDD8&bg_color=15,123175,5B2749,777777&hide_title=true&hide_border=true)
 
-![Visited By](https://count.getloli.com/get/@codeSu97?theme=gelbooru)
+## Visited
+![Visited](https://count.getloli.com/get/@codeSu97?theme=gelbooru)
