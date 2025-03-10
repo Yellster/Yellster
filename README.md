@@ -6,9 +6,12 @@
 
 - Java / Spring
 - Python / Flask
+- JavaScript / Vue
+- Flink
 - PostgreSQL
-- ElasticSearch
+- ElasticSearch、ClickHouse
 - Kafka
+- Redis
 
 ## Visited
 ![Visited](https://count.getloli.com/get/@codeSu97?theme=gelbooru)
